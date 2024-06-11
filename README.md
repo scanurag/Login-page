@@ -46,4 +46,4 @@ This project includes:
 This project is licensed under the MIT License.
 
 ## Author
-[Your Name/Contact Information]
+[Anurag Singh/7234020314]
