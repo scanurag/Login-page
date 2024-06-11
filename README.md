@@ -1,4 +1,10 @@
-Login and Registration System
+![Screenshot 2024-06-11 151249](https://github.com/scanurag/Login-page/assets/90509642/5d905f97-2baa-4216-b535-007b6538e2cb) 
+
+
+ 
+
+
+Login and Registration 
 
 Welcome to the repository for the Login and Registration System. This project provides secure authentication and user registration functionality for web applications.
 
